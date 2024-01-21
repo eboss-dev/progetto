@@ -2,3 +2,5 @@ ship_dataset_v0
 *.zip
 test
 ship_dataset_preprocessed
+ship_dataset_leefilter
+ship_dataset_frostfilter
