@@ -4,3 +4,5 @@ test
 ship_dataset_preprocessed
 ship_dataset_leefilter
 ship_dataset_frostfilter
+ship_dataset_waveletfilter
+ship_dataset_nlmeansfilter
