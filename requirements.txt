@@ -1,0 +1,4 @@
+cv2==4.8.1
+matplotlib==3.8.0
+numpy==1.23.4
+skimage==0.22.0
